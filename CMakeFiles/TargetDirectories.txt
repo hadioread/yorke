@@ -1,3 +1,0 @@
-/home/lachlan/dev/yorke/CMakeFiles/game.dir
-/home/lachlan/dev/yorke/CMakeFiles/edit_cache.dir
-/home/lachlan/dev/yorke/CMakeFiles/rebuild_cache.dir
